@@ -9,8 +9,9 @@ Numéro de commande;Pays;État commande;Prix;Prix frais de port;Sku;Quantité;Nu
 <pre>
 "359";"Espagne";"1";"130.00";"5.00";"lol123456";"1";"400";"1";"Appareil photo de dingue";"Super Shiny";"130.00";"5.00";"";"";"";"Colissimo";"DC comics";"Wonder";"Woman";"1 Place de la republique";"";"75011";"London";"en-gb";"0606060606";"client_174@backmarket.fr";"DC comics";"Wonder";"Woman";"1 Place de la republique";"";"75011";"London";"en-gb";"0606060606";"2016-01-25 09:36:39+00:00";"2016-03-29 13:11:44+00:00";"2016-01-25 09:37:37+00:00";"";"EUR";"9.45";"";""
 </pre>
-The comment generated is:<br>
+The comment generated is:<br><br><center>
 ![Alt text](/csv-analyser.png?raw=true "CSV Analyser Screenshot")
+</center>
 
 Dexter Santucci<br>
 Ottawa, April 2019
