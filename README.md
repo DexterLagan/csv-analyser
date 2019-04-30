@@ -57,5 +57,8 @@ The comment generated is:
 // 44 - Numéro IMEI = ""
 </pre>
 
+Screenshot of the app in action:
+<img alt="csv-analyser.png" src="/DexterLagan/csv-analyser/blob/master/csv-analyser.png?raw=true">
+
 Dexter Santucci<br>
 Ottawa, April 2019
