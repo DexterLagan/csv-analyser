@@ -58,7 +58,7 @@ The comment generated is:
 </pre>
 
 Screenshot of the app in action:
-<img alt="csv-analyser.png" src="/DexterLagan/csv-analyser/blob/master/csv-analyser.png?raw=true">
+![Alt text](/csv-analyser.png?raw=true "CSV Analyser Screenshot")
 
 Dexter Santucci<br>
 Ottawa, April 2019
