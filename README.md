@@ -11,7 +11,7 @@ Numéro de commande;Pays;État commande;Prix;Prix frais de port;Sku;Quantité;Nu
 </pre>
 The comment generated is:<br><br>
 <p align=center>
-![Alt text](/csv-analyser.png?raw=true "CSV Analyser Screenshot")
+[Screenshot](/csv-analyser.png?raw=true "CSV Analyser Screenshot")
 </p>
 
 Dexter Santucci<br>
