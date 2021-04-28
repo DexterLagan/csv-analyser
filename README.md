@@ -14,4 +14,4 @@ The comment generated is:<br><br>
 
 ## License
 
-CSV Analyzer is free software; see [LICENSE](https://github.com/DexterLagan/csv-analyzer/blob/main/LICENSE) for more details.
+CSV Analyzer is free software; see [LICENSE](https://github.com/DexterLagan/csv-analyzer/blob/master/LICENSE) for more details.
