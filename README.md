@@ -1,5 +1,5 @@
-# csv-analyser
-Analyses a CSV from its headers and first line to generate a comment for insertion into source code.
+# CSV Analyzer
+Analyzes a CSV from its headers and first line to generate a comment for insertion into source code.
 
 From the headers:
 <pre>
@@ -12,5 +12,6 @@ Numéro de commande;Pays;État commande;Prix;Prix frais de port;Sku;Quantité;Nu
 The comment generated is:<br><br>
 <p align="center"><img src="csv-analyser.png"></p>
 
-Dexter Santucci<br>
-Ottawa, April 2019
+## License
+
+CSV Analyzer is free software; see [LICENSE](https://github.com/DexterLagan/csv-analyzer/blob/main/LICENSE) for more details.
